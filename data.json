@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "title": "Ноутбук Asus TUF Dash F15 FX516PE Intel Core i7-11370H 16GB DDR4 512GB SSD Nvidia RTX3050Ti 4GB FHD DOS серый",
+      "category": "ноутбуки",
+      "price": 112190,
+      "img": "https://www.kivano.kg/product/view/noutbuk-asus-tuf-dash-f15-fx516pe-intel-core-i7-11370h-16gb-ddr4-512gb-ssd-nvidia-rtx3050ti-4gb-fhd-dos-seryy",
+      "desc": "Операционная система: DOS; Процессор: Intel Core  i7-11370H; Разрешение экрана: 1920 x 1080 Full HD; Графический контроллер: Nvidia RTX 3050TI; Объем оперативной памяти: 16 GB DDR4; Объем накопителя SSD: 512 GB; Вес: от 2 кг"
+  },
+  {   "id": 2,
+      "title": "Сотовый телефон Apple iPhone 13 Pro 256GB зеленый",
+      "category": "смартфоны",
+      "price": 102650,
+      "img": "https://www.kivano.kg/product/view/sotovyy-telefon-apple-iphone-13-pro-256gb-zelenyy",
+      "desc": "Операционная система Apple iOS 15; экран 6.1 OLED 2532x1170 ~120 Гц; процессор Apple A15 Bionic x6 core; память 6/256 GB; основная камера 12 mpx (F/1.5); фронтальная камера 12 mpx (F/2.2); аккумулятор 3095 mAh; быстрая зарядка 23W; поддержка сетей 5G"
+  },
+  {
+      "id": 2,
+      "title": "Сотовый телефон Xiaomi Mi 11 Ultra 12/512GB черный",
+      "category": "смартфоны",
+      "price": 79630,
+      "img": "https://www.kivano.kg/product/view/sotovyy-telefon-xiaomi-mi-11-ultra-12-512gb-chernyy",
+      "desc": "Операционная система Android 11; экран 6.8 AMOLED 3200х1440 ~120 Гц; процессор Qualcomm Snapdragon 888 x8 core; память 12/512 GB; основная камера 50 mpx (F/2,0); фронтальная камера 20 mpx (F/2.2); аккумулятор 5000 mAh; быстрая зарядка 67W; dual sim; поддержка сетей 5G"
+  }
+
+]
