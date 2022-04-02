@@ -9,10 +9,15 @@ fetch("data.json")
   .then((data) => {
     let output = "";
     data.forEach(function (item) {
-      // output += `<li>${item.title}</li>`;
       const card = document.createElement("div");
       card.setAttribute("class", "card");
       div.appendChild(card);
+      // card.innerHTML = `
+      // <h3>${item.title}</h3>
+      // <img  class="img" src="${item.img}" alt="${item.title}">
+      // <p class="price">${item.price}</p>
+      // <p>${item.desc}</p>
+      // `
 
 
       const title = document.createElement("h3");
@@ -22,12 +27,11 @@ fetch("data.json")
       const category = document.createElement("p");
 
       price.setAttribute("class", "price");
-      img.setAttribute("class", "img");
-      img.setAttribute("src", item.image);
+      img.classList.toggle("img");
 
       title.textContent = item.title;
       desc.innerText = item.desc;
-     // img.src = item.img;
+      img.src = item.img;
       price.textContent = item.price;
       category.textContent = item.category;
 

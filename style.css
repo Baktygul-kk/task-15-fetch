@@ -9,12 +9,14 @@ h1 {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
+    max-height: 600px;
     margin: 20px;
     padding: 10px;
     text-align: center;
     font-family: arial;
     display: inline-block;
     background-color: rgb(240, 235, 243);
+    
 }
 
 .price {
@@ -24,5 +26,6 @@ h1 {
 }
 
 .img {
-    width: 200px;
+    max-width: 200px;
+    object-fit: contain;
 }
